@@ -1,1 +1,2 @@
-GyoengUn Kang
+- GyoengUn Kang
+- Hyeongjin Hwang
